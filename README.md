@@ -1,2 +1,28 @@
-# danceWebsite
- Simple dance website maintaining mongodb data of contact form
+# Chirag Dance Academy Website
+
+Welcome to the Chirag Dance Academy website project! This is a web application for Chirag's Dance Academy, built using Node.js, Express, Pug, and MongoDB.
+
+## Overview
+
+The Chirag Dance Academy website is designed to provide information about dance classes, schedules, services, and contact details. It allows users to view class schedules, get in touch with the academy, and learn more about the academy's mission.
+
+## Features
+
+- View dance class schedules.
+- Contact the academy for inquiries.
+- Learn about the academy's mission and services.
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- Pug (template engine)
+- MongoDB (database)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/chirag-dance-academy.git
+   cd chirag-dance-academy
